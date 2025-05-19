@@ -1,0 +1,355 @@
+{
+  "modulos": [
+    {
+      "titulo": "Módulo 1 - Introdução à Programação",
+      "aulas": [
+        {
+          "titulo": "Lógica de Programação",
+          "link": "https://youtu.be/OBTZYP5vHBQ?si=XZ1DYFN-f0In6CWt",
+          "resumo": "Introdução aos conceitos básicos de lógica de programação e sua importância."
+        },
+        {
+          "titulo": "Variáveis e Tipos de Dados",
+          "link": "https://youtu.be/RlWLK7rZV5s?si=P0nfxIjzzlmAOPeo",
+          "resumo": "Apresentação das variáveis e tipos de dados em lógica de programação."
+        }
+      ],
+      "questionario": [
+        {
+          "questoes": [
+            "O que é lógica de programação?",
+            "A) Processo de definir variáveis.",
+            "B) Conjunto de regras para resolver problemas de forma computacional.",
+            "C) Criação de algoritmos complexos.",
+            "D) Estudo das linguagens de programação."
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "Qual é a função de uma variável em programação?",
+            "A) Armazenar dados temporários.",
+            "B) Definir o tipo de dado do código.",
+            "C) Controlar a execução de loops.",
+            "D) Realizar operações matemáticas."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "O que são tipos de dados em programação?",
+            "A) Conjunto de variáveis.",
+            "B) Formas de representar dados na memória.",
+            "C) Funções usadas em algoritmos.",
+            "D) Bibliotecas que gerenciam dados."
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "Qual é a diferença entre uma variável do tipo inteiro e uma variável do tipo string?",
+            "A) Variáveis inteiras armazenam textos e strings armazenam números.",
+            "B) Variáveis inteiras são números e strings armazenam caracteres.",
+            "C) Não há diferença.",
+            "D) Strings são usadas para cálculos, inteiros para comparações."
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "O que significa o termo 'algoritmo'?",
+            "A) Código para criar programas interativos.",
+            "B) Conjunto de instruções para resolver um problema específico.",
+            "C) Função que armazena variáveis.",
+            "D) Processo de compilar códigos."
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "Quais são as principais operações realizadas com variáveis?",
+            "A) Definir e manipular valores.",
+            "B) Somar e subtrair valores.",
+            "C) Testar condições e repetições.",
+            "D) Organizar o fluxo de controle."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "Como é declarada uma variável em Python?",
+            "A) 'variavel = valor'",
+            "B) 'int variavel = valor'",
+            "C) 'var variavel = valor'",
+            "D) 'variavel : valor'"
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "Qual é o objetivo da estrutura de repetição?",
+            "A) Realizar operações matemáticas.",
+            "B) Executar um conjunto de instruções repetidamente.",
+            "C) Armazenar dados temporários.",
+            "D) Definir o tipo de dados de variáveis."
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "Quais tipos de dados existem em Python?",
+            "A) Inteiro, flutuante, string e tupla.",
+            "B) Inteiro, texto e lista.",
+            "C) String, lista, float e dicionário.",
+            "D) String, tupla e float."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "O que são operadores em programação?",
+            "A) Funções que armazenam dados.",
+            "B) Símbolos que realizam operações matemáticas e lógicas.",
+            "C) Instruções para controle de fluxo.",
+            "D) Tipos de dados usados no código."
+          ],
+          "resposta_correta": "B"
+        }
+      ]
+    },
+    {
+      "titulo": "Módulo 2 - Python",
+      "aulas": [
+        {
+          "titulo": "Introdução ao Python para Iniciantes",
+          "link": "https://youtu.be/n8QSMCQBvfo?si=T5EtAp3I-bMOPfoi",
+          "resumo": "Introdução aos conceitos básicos de Python e sua importância."
+        },
+        {
+          "titulo": "Variáveis em Python",
+          "link": "https://youtu.be/LFOD3gHd3so?si=GRu7WDcnfJuN3Awe",
+          "resumo": "Conhecimento sobre os principais tipos de varáveis utilizados em Python."
+        }
+      ],
+      "questionario": [
+        {
+          "questoes": [
+            "Como você declara uma variável em Python?",
+            "A) Usando 'var'.",
+            "B) Usando '='.",
+            "C) Usando 'let'.",
+            "D) Usando 'declare'."
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "Qual é a diferença entre tipos de dados inteiros e flutuantes?",
+            "A) Flutuantes têm vírgula, inteiros não.",
+            "B) Flutuantes são usados apenas para números negativos.",
+            "C) Inteiros não possuem vírgula.",
+            "D) Flutuantes são para textos, inteiros para números."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "O que significa o termo 'tupla' em Python?",
+            "A) Conjunto de variáveis mutáveis.",
+            "B) Conjunto imutável de valores.",
+            "C) Conjunto de dados numéricos.",
+            "D) Tipo de dado de texto."
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "O que é um dicionário em Python?",
+            "A) Conjunto de variáveis com chave e valor.",
+            "B) Conjunto de valores armazenados por ordem.",
+            "C) Função para armazenar números.",
+            "D) Operação para manipulação de listas."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "Como você converte um número de ponto flutuante para inteiro em Python?",
+            "A) float()",
+            "B) str()",
+            "C) int()",
+            "D) bool()"
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "questoes": [
+            "Qual comando é usado para converter um valor string em inteiro?",
+            "A) int()",
+            "B) string()",
+            "C) convert()",
+            "D) cast()"
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "Qual é a principal característica de uma lista em Python?",
+            "A) Armazenar valores numéricos.",
+            "B) Ser imutável.",
+            "C) Ser uma sequência de valores ordenados e mutáveis.",
+            "D) Armazenar apenas números inteiros."
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "questoes": [
+            "O que é um erro de sintaxe em Python?",
+            "A) Quando a execução de um programa falha durante a execução.",
+            "B) Quando o código não segue as regras gramaticais do Python.",
+            "C) Quando o código não é compatível com a plataforma.",
+            "D) Quando a lógica do código está errada."
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "Como definir uma variável do tipo string em Python?",
+            "A) 'variavel = texto'.",
+            "B) 'variavel = 'texto''. ",
+            "C) 'variavel = 'texto'.",
+            "D) 'variavel = texto'()"
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "Qual função permite que você leia a entrada do usuário em Python?",
+            "A) input()",
+            "B) read()",
+            "C) print()",
+            "D) output()"
+          ],
+          "resposta_correta": "A"
+        }
+      ]
+    },
+    {
+      "titulo": "Módulo 3 - Estruturas Condicionais e de Repetição",
+      "aulas": [
+        {
+          "titulo": "Laços de Repetição em Python",
+          "link": "https://youtu.be/3ev-CIG28xQ?si=Tyz7TPp0H1LxXBgA",
+          "resumo": "Aprendizado sobre estruturas de repetição com while e for."
+        },
+        {
+          "titulo": "Estruturas Condicionais em Python",
+          "link": "https://youtu.be/SeULN2Udw8U?si=go3-Gt6kxQRbDWub",
+          "resumo": "Aprendizado sobre estruturas de decisão com if, elif e else."
+        }
+      ],
+      "questionario": [
+        {
+          "questoes": [
+            "Qual a função do 'if' em Python?",
+            "A) Executar um bloco de código se uma condição for verdadeira.",
+            "B) Definir uma variável.",
+            "C) Finalizar a execução de um programa.",
+            "D) Iniciar uma repetição de código."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "O que faz o comando 'elif' em uma estrutura condicional?",
+            "A) Executa um bloco de código se a condição for falsa.",
+            "B) Inicia uma nova repetição de código.",
+            "C) Avalia uma nova condição caso a anterior seja falsa.",
+            "D) Encerra a execução do código."
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "questoes": [
+            "O que o comando 'else' faz?",
+            "A) Ele executa um bloco de código se todas as condições anteriores forem falsas.",
+            "B) Ele repete o bloco de código anterior.",
+            "C) Ele define o valor de uma variável.",
+            "D) Ele ignora as condições e executa qualquer bloco de código."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "Qual operador lógico usamos para verificar se duas condições são verdadeiras?",
+            "A) or",
+            "B) and",
+            "C) not",
+            "D) if"
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "questoes": [
+            "Qual é o comportamento de uma estrutura condicional 'if' sem o 'else'?",
+            "A) Se a condição for falsa, o programa irá continuar normalmente.",
+            "B) O programa irá gerar um erro de execução.",
+            "C) O programa irá continuar com a execução de outro bloco de código.",
+            "D) O programa ignorará a condição."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "Como podemos encadear múltiplas condições em Python?",
+            "A) Usando apenas 'if'.",
+            "B) Usando 'elif'.",
+            "C) Usando 'if' seguido de 'else'.",
+            "D) Usando 'elif' e 'else'."
+          ],
+          "resposta_correta": "D"
+        },
+        {
+          "questoes": [
+            "Qual é o operador lógico utilizado para negar uma condição?",
+            "A) not",
+            "B) and",
+            "C) or",
+            "D) if"
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "Qual a diferença entre os operadores '==' e '=' em Python?",
+            "A) '==' é utilizado para atribuição, enquanto '=' é utilizado para comparação.",
+            "B) Ambos são utilizados para atribuição.",
+            "C) '==' é utilizado para comparação, enquanto '=' é utilizado para atribuição.",
+            "D) Não há diferença."
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "questoes": [
+            "O que acontece quando uma condição 'if' é seguida de várias condições 'elif' que são todas falsas?",
+            "A) O código do 'else' será executado, se presente.",
+            "B) O código do primeiro 'elif' será executado.",
+            "C) O código do 'if' será executado.",
+            "D) O Python gerará um erro."
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "questoes": [
+            "Qual dos seguintes exemplos é uma forma de estrutura condicional em Python?",
+            "A) if a > b:",
+            "B) while a > b:",
+            "C) for i in range(10):",
+            "D) break"
+          ],
+          "resposta_correta": "A"
+        }
+      ]
+    }
+  ]
+}
